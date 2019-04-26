@@ -1,5 +1,5 @@
 body{
-    background: rgba(0,0,0,0.9);
+    background:#0f72a2;
     margin: 0;
     color: #fff;
 }
@@ -73,7 +73,7 @@ background: #f4f4f4;
 color: #333;
 }
 .bg-dark{
-background: #333;
+background: #0f72a2;
 color: #f4f4f4;
 }
 footer{
